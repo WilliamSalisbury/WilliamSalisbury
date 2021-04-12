@@ -1,4 +1,4 @@
-### This is my first website that I did while learning👋
+- 🌱 I’m currently learning Web Development with React, node and MongoDB. 
 
 <!--
 **WilliamSalisbury/WilliamSalisbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
