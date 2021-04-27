@@ -1,4 +1,8 @@
-- 🌱 I’m currently learning Web Development with React, node and MongoDB. 
+- 🌱 I’m currently learning Web Development with React, Node and MongoDB. 
+
+- 🔭 I’m currently working on a web application for bartenders.
+
+- ⚡ Fun fact: Banana is a kind of grass.
 
 <!--
 **WilliamSalisbury/WilliamSalisbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
